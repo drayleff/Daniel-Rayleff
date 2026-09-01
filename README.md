@@ -26,8 +26,6 @@ Mi carrera combina una sólida experiencia en el área de impuestos con un profu
 
 ### Proyectos
 
-Aquí puedes agregar una breve descripción de los proyectos que subas a tu repositorio. Por ejemplo:
-
 *   **Proyecto 1:** Desarrollo de un tablero en Power BI para el seguimiento de indicadores clave de gestión de costos.
 *   **Proyecto 2:** Modelo de planificación fiscal para optimizar la carga tributaria en operaciones internacionales.
 
